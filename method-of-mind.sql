@@ -1,4 +1,5 @@
 /method-of-mind/
+  supabase-client.js
 index.html
 about.html
 topics.html
@@ -9,6 +10,7 @@ intro-psych.html
 request-topic.html
 account.html
 styles.css
+
 
 
 
