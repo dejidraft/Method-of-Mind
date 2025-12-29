@@ -31,10 +31,7 @@ body{
   font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
   color: var(--text);
   line-height: 1.65;
-  background:
-    radial-gradient(900px 520px at 12% 6%, rgba(203,205,242,0.55), transparent 58%),
-    radial-gradient(760px 520px at 88% 12%, rgba(77,98,153,0.16), transparent 60%),
-    linear-gradient(180deg, var(--bg), #f3efe9);
+  background: #f8f4ef;
 }
 
 /* =========================
@@ -220,3 +217,4 @@ footer{
   border: 0;
   margin: 22px 0;
 }
+
