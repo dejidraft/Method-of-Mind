@@ -6,6 +6,5 @@ method-of-mind/
 ├── research-methods.html
 ├── biopsych.html
 ├── personality.html
-│
-└── css/
-    └── styles.css
+├── styles.css
+
