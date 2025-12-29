@@ -34,6 +34,17 @@ body{
   background: #f8f4ef;
 }
 
+
+/* =========================
+   Buttons
+   ========================= */
+.button{
+   background: white;
+   color: #4d6299;
+   border: 3px solid #4d6299;
+}
+
+
 /* =========================
    Header / Nav
    ========================= */
@@ -222,6 +233,7 @@ footer{
   border: 0;
   margin: 22px 0;
 }
+
 
 
 
